@@ -8,6 +8,7 @@ from torch.autograd import Variable
 from torch.optim import Adam
 # from skimage import io
 import os
+# test Nov. 22
 
 
 
